@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Codelab {
     public static void main(String[] args) {
-        System.out.println("Hello World\n");
 
         Scanner input = new Scanner(System.in);
         double angka1, angka2, hasil;
